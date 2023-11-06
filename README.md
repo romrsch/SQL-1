@@ -15,6 +15,6 @@
 
 Материал взят из [R class Tech](https://www.youtube.com/@Rclass) для самоподготовки по БД MySQL
 
-[Учебник SQL](https://www.schoolsw3.com/sql/sql_dates.php)
+[Учебник SQL](https://www.schoolsw3.com/sql/index.php)
 
 
